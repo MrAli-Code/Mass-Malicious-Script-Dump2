@@ -1,6 +1,6 @@
 # Mass Malicious Script Dump
-##### All responsibilities are at your own risk.
-##### Please use it only for research purposes.
+#### All responsibilities are at your own risk.
+#### Please use it only for research purposes.
 ## Stresser
   - ACK
   - ARME
